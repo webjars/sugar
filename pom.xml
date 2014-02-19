@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>sugar</artifactId>
-    <version>1.4.1</version>
+    <version>1.4.2-SNAPSHOT</version>
     <name>Sugar</name>
     <description>WebJar for Sugar</description>
     <url>http://webjars.org</url>
@@ -36,7 +36,7 @@
         <url>http://github.com/webjars/sugar</url>
         <connection>scm:git:https://github.com/webjars/sugar.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/sugar.git</developerConnection>
-        <tag>sugar-1.4.1</tag>
+        <tag>HEAD</tag>
     </scm>
     
     <properties>
